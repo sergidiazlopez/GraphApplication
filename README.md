@@ -1,5 +1,7 @@
 # Traveling Salesman Problem
 
+![[sshot-009.png]]
+
 ## Problem Description
 
 Imagine you need to deliver mail to various points on a campus, and your goal is to find the shortest route that visits all these points and returns to the starting point. This problem is known as the Traveling Salesman Problem (TSP).
