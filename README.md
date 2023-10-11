@@ -1,6 +1,6 @@
 # Traveling Salesman Problem
 
-![sshot-009.png]
+![Screenshot](sshot-009.png)
 
 ## Problem Description
 
